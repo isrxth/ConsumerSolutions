@@ -119,11 +119,21 @@ html {
   font-size: inherit;
 }
 
+/* Responsive table scrolling on mobile */
+.prose-dark .table-wrapper,
+.prose-dark table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
 .prose-dark table {
   width: 100%;
+  min-width: 480px;
   border-collapse: collapse;
   margin-bottom: 1.5rem;
   font-size: 0.875rem;
+  display: table;
 }
 
 .prose-dark th {

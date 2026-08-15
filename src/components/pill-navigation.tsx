@@ -9,12 +9,12 @@ export function PillNavigation() {
   const { currentTab, setTab, activeNote } = useAppStore();
 
   return (
-    <div className="absolute bottom-6 left-1/2 -translate-x-1/2 z-30">
+    <div className="absolute bottom-4 sm:bottom-6 left-1/2 -translate-x-1/2 z-30">
       <div id="pill-view-toggle" className="relative flex items-center p-1 bg-zinc-900/60 border border-zinc-800/80 backdrop-blur-md rounded-full shadow-lg gap-1">
         {/* Graph Tab */}
         <button
           onClick={() => setTab('graph')}
-          className={`relative z-10 flex items-center gap-2 px-4 py-2 text-xs font-semibold rounded-full transition-colors duration-200 select-none ${
+          className={`relative z-10 flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 text-xs font-semibold rounded-full transition-colors duration-200 select-none ${
             currentTab === 'graph' ? 'text-emerald-400' : 'text-zinc-500 hover:text-zinc-300'
           }`}
         >
@@ -36,7 +36,7 @@ export function PillNavigation() {
             // but let's allow switching to show the note viewer anyway (will show select note placeholder)
             setTab('note');
           }}
-          className={`relative z-10 flex items-center gap-2 px-4 py-2 text-xs font-semibold rounded-full transition-colors duration-200 select-none ${
+          className={`relative z-10 flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 text-xs font-semibold rounded-full transition-colors duration-200 select-none ${
             currentTab === 'note' ? 'text-emerald-400' : 'text-zinc-500 hover:text-zinc-300'
           }`}
         >
