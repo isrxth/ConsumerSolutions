@@ -36,7 +36,7 @@ const STEPS = [
   },
   {
     title: "5. Suggest Edit / Feedback",
-    description: "Notice an error or want to suggest updates? Click the emerald 'Suggest Edit' button in the note header to submit feedback directly to the Discord channel.",
+    description: "Notice an error or want to suggest updates? Click the emerald 'Suggest Edit' button in the note header to submit feedback.",
     targetId: "suggest-edit-btn",
     position: "right-6 top-20",
     arrowClass: "right-16 top-[-8px] border-x-8 border-x-transparent border-b-8 border-b-zinc-900"
@@ -53,7 +53,7 @@ export function TutorialTour() {
     const checkTourStatus = () => {
       const disclaimerAccepted = localStorage.getItem('disclaimerAccepted') === 'true';
       const tourCompleted = localStorage.getItem('tourCompleted') === 'true';
-      
+
       // Open tour only if disclaimer is accepted and tour is not yet completed
       if (disclaimerAccepted && !tourCompleted) {
         setIsOpen(true);
@@ -63,7 +63,7 @@ export function TutorialTour() {
     };
 
     checkTourStatus();
-    
+
     // Check frequently in case disclaimer is accepted dynamically
     const interval = setInterval(checkTourStatus, 500);
     return () => clearInterval(interval);
@@ -75,7 +75,7 @@ export function TutorialTour() {
       if (step === 3 || step === 4) {
         // Switch tab to 'note' to make the note reader visible
         setTab('note');
-        
+
         // If no note is open, automatically open the first note so the elements exist in the DOM
         if (!activeNote && nodesList.length > 0) {
           setActiveNote(nodesList[0].path);
@@ -186,7 +186,7 @@ export function TutorialTour() {
                 <HelpCircle className="w-4 h-4" />
                 <span className="text-xs font-bold text-zinc-200">{STEPS[step].title}</span>
               </div>
-              <button 
+              <button
                 onClick={handleSkip}
                 className="text-zinc-500 hover:text-zinc-300 transition-colors pointer-events-auto"
                 title="Skip Tour"
@@ -205,11 +205,10 @@ export function TutorialTour() {
               {/* Pagination indicators */}
               <div className="flex gap-1.5">
                 {STEPS.map((_, i) => (
-                  <div 
-                    key={i} 
-                    className={`w-1.5 h-1.5 rounded-full transition-colors ${
-                      i === step ? 'bg-emerald-500' : 'bg-zinc-800'
-                    }`}
+                  <div
+                    key={i}
+                    className={`w-1.5 h-1.5 rounded-full transition-colors ${i === step ? 'bg-emerald-500' : 'bg-zinc-800'
+                      }`}
                   />
                 ))}
               </div>
