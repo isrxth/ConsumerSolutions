@@ -2,6 +2,7 @@
 
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import { useAppStore } from '../app/store';
 import { FileText, ArrowLeft, X, BookOpen, Clock, Tag, ChevronLeft, ChevronRight, MessageSquare, CheckCircle2 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
@@ -192,7 +193,14 @@ export function MarkdownViewer({ onClose, showBackBtn = false }: MarkdownViewerP
       <div className="flex-1 overflow-y-auto px-4 sm:px-6 py-5 sm:py-8">
         <div className="prose prose-invert prose-dark max-w-none">
           <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
             components={{
+              // Wrap tables in a scrollable container for mobile
+              table: ({ children }) => (
+                <div className="overflow-x-auto my-4 rounded-lg border border-zinc-800/60">
+                  <table className="min-w-full">{children}</table>
+                </div>
+              ),
               a: ({ href, children, ...props }) => {
                 if (href?.startsWith('#wiki-')) {
                   const targetId = href.replace('#wiki-', '');
