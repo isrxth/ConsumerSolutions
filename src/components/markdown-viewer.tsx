@@ -110,7 +110,7 @@ export function MarkdownViewer({ onClose, showBackBtn = false }: MarkdownViewerP
     <>
     <article className="h-full flex flex-col bg-[#1e1e1e] overflow-hidden">
       {/* Note Header / Meta */}
-      <div className="flex items-center justify-between px-6 py-4 border-b border-zinc-800/60 bg-[#1e1e1e]/90 sticky top-0 backdrop-blur-md z-10">
+      <div className="flex items-center justify-between px-3 sm:px-6 pr-14 sm:pr-6 py-3 sm:py-4 border-b border-zinc-800/60 bg-[#1e1e1e]/90 sticky top-0 backdrop-blur-md z-10">
         <div className="flex items-center gap-3">
           {/* History Back/Forward Controls */}
           <div id="history-navigation-controls" className="flex items-center bg-zinc-900/40 border border-zinc-800/60 rounded-lg p-0.5 mr-1 shrink-0">
@@ -151,15 +151,15 @@ export function MarkdownViewer({ onClose, showBackBtn = false }: MarkdownViewerP
           )}
           <FileText className="w-5 h-5 text-emerald-500" />
           <div>
-            <h1 className="font-bold text-zinc-100 text-base md:text-lg leading-tight truncate max-w-[280px] md:max-w-md">
+            <h1 className="font-bold text-zinc-100 text-sm sm:text-base md:text-lg leading-tight truncate max-w-[120px] sm:max-w-[260px] md:max-w-md">
               {activeNote.title}
             </h1>
-            <div className="flex items-center gap-3 text-[11px] text-zinc-500 mt-1">
+            <div className="flex items-center gap-2 text-[11px] text-zinc-500 mt-0.5">
               <span className="flex items-center gap-1">
                 <Clock className="w-3 h-3" />
-                {readTime} min read
+                {readTime} min
               </span>
-              <span className="flex items-center gap-1 bg-zinc-900/60 text-zinc-400 px-2 py-0.5 rounded-full border border-zinc-800/40">
+              <span className="hidden sm:flex items-center gap-1 bg-zinc-900/60 text-zinc-400 px-2 py-0.5 rounded-full border border-zinc-800/40">
                 <Tag className="w-2.5 h-2.5 text-emerald-500" />
                 {activeNote.group}
               </span>
@@ -189,7 +189,7 @@ export function MarkdownViewer({ onClose, showBackBtn = false }: MarkdownViewerP
       </div>
 
       {/* Note Body */}
-      <div className="flex-1 overflow-y-auto px-6 py-8">
+      <div className="flex-1 overflow-y-auto px-4 sm:px-6 py-5 sm:py-8">
         <div className="prose prose-invert prose-dark max-w-none">
           <ReactMarkdown
             components={{

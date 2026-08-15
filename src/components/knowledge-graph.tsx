@@ -241,7 +241,7 @@ export function KnowledgeGraph() {
       />
 
       {/* Floating Canvas Zoom Controls */}
-      <div className="absolute bottom-6 right-6 flex flex-col gap-2 p-1.5 bg-zinc-900/60 border border-zinc-800/80 backdrop-blur-md rounded-xl shadow-lg">
+      <div className="absolute bottom-20 sm:bottom-6 right-4 sm:right-6 flex flex-col gap-2 p-1.5 bg-zinc-900/60 border border-zinc-800/80 backdrop-blur-md rounded-xl shadow-lg">
         <button
           onClick={handleZoomIn}
           className="p-2 rounded-lg text-zinc-400 hover:text-zinc-200 hover:bg-zinc-800/60 transition-colors"
