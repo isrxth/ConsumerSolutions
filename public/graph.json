@@ -1,0 +1,494 @@
+{
+  "nodes": [
+    {
+      "id": "Attribute",
+      "title": "Attribute",
+      "group": "definition",
+      "path": "Notes/definition/Attribute.md"
+    },
+    {
+      "id": "Augmenter",
+      "title": "Augmenter",
+      "group": "definition",
+      "path": "Notes/definition/Augmenter.md"
+    },
+    {
+      "id": "AVP Framework",
+      "title": "AVP Framework",
+      "group": "definition",
+      "path": "Notes/definition/AVP Framework.md"
+    },
+    {
+      "id": "Consumer",
+      "title": "Consumer",
+      "group": "definition",
+      "path": "Notes/definition/Consumer.md"
+    },
+    {
+      "id": "Consumption",
+      "title": "Consumption",
+      "group": "definition",
+      "path": "Notes/definition/Consumption.md"
+    },
+    {
+      "id": "Deprivation",
+      "title": "Deprivation",
+      "group": "definition",
+      "path": "Notes/definition/Deprivation.md"
+    },
+    {
+      "id": "Differentiator",
+      "title": "Differentiator",
+      "group": "definition",
+      "path": "Notes/definition/Differentiator.md"
+    },
+    {
+      "id": "Dissonance Reduction",
+      "title": "Dissonance Reduction",
+      "group": "definition",
+      "path": "Notes/definition/Dissonance Reduction.md"
+    },
+    {
+      "id": "Enabler",
+      "title": "Enabler",
+      "group": "definition",
+      "path": "Notes/definition/Enabler.md"
+    },
+    {
+      "id": "Goods-Dominant (G-D) Logic",
+      "title": "Goods-Dominant (G-D) Logic",
+      "group": "definition",
+      "path": "Notes/definition/Goods-Dominant (G-D) Logic.md"
+    },
+    {
+      "id": "Hedonic Value",
+      "title": "Hedonic Value",
+      "group": "definition",
+      "path": "Notes/definition/Hedonic Value.md"
+    },
+    {
+      "id": "In control",
+      "title": "In control",
+      "group": "definition",
+      "path": "Notes/definition/In control.md"
+    },
+    {
+      "id": "Instrumental Value",
+      "title": "Instrumental Value",
+      "group": "definition",
+      "path": "Notes/definition/Instrumental Value.md"
+    },
+    {
+      "id": "Market",
+      "title": "Market",
+      "group": "definition",
+      "path": "Notes/definition/Market.md"
+    },
+    {
+      "id": "Product",
+      "title": "Product",
+      "group": "definition",
+      "path": "Notes/definition/Product.md"
+    },
+    {
+      "id": "Psychological Equilibrium",
+      "title": "Psychological Equilibrium",
+      "group": "definition",
+      "path": "Notes/definition/Psychological Equilibrium.md"
+    },
+    {
+      "id": "S-O-R Model",
+      "title": "S-O-R Model",
+      "group": "definition",
+      "path": "Notes/definition/S-O-R Model.md"
+    },
+    {
+      "id": "Sacrifice Value",
+      "title": "Sacrifice Value",
+      "group": "definition",
+      "path": "Notes/definition/Sacrifice Value.md"
+    },
+    {
+      "id": "Self-worth",
+      "title": "Self-worth",
+      "group": "definition",
+      "path": "Notes/definition/Self-worth.md"
+    },
+    {
+      "id": "Service-Dominant (S-D) Logic",
+      "title": "Service-Dominant (S-D) Logic",
+      "group": "definition",
+      "path": "Notes/definition/Service-Dominant (S-D) Logic.md"
+    },
+    {
+      "id": "Solution",
+      "title": "Solution",
+      "group": "definition",
+      "path": "Notes/definition/Solution.md"
+    },
+    {
+      "id": "Symbolic Value",
+      "title": "Symbolic Value",
+      "group": "definition",
+      "path": "Notes/definition/Symbolic Value.md"
+    },
+    {
+      "id": "Value Co-creation",
+      "title": "Value Co-creation",
+      "group": "definition",
+      "path": "Notes/definition/Value Co-creation.md"
+    },
+    {
+      "id": "Value Delivery System",
+      "title": "Value Delivery System",
+      "group": "definition",
+      "path": "Notes/definition/Value Delivery System.md"
+    },
+    {
+      "id": "Value Element",
+      "title": "Value Element",
+      "group": "definition",
+      "path": "Notes/definition/Value Element.md"
+    },
+    {
+      "id": "L1_Pilot_Notes",
+      "title": "Lecture 1: The Pilot - Study Notes",
+      "group": "Notes",
+      "path": "Notes/L1_Pilot_Notes.md"
+    },
+    {
+      "id": "L2_Philosophy_Notes",
+      "title": "Lecture 2: Philosophy of Marketing and Consumption - Study Notes",
+      "group": "Notes",
+      "path": "Notes/L2_Philosophy_Notes.md"
+    },
+    {
+      "id": "L3_Market_and_Consumption_Notes",
+      "title": "Lecture 3: Market and Consumption - Study Notes",
+      "group": "Notes",
+      "path": "Notes/L3_Market_and_Consumption_Notes.md"
+    },
+    {
+      "id": "L4_Solution_Composition_Notes",
+      "title": "Lecture 4: Solution Composition - Study Notes",
+      "group": "Notes",
+      "path": "Notes/L4_Solution_Composition_Notes.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "AVP Framework",
+      "target": "Enabler"
+    },
+    {
+      "source": "AVP Framework",
+      "target": "Differentiator"
+    },
+    {
+      "source": "AVP Framework",
+      "target": "Augmenter"
+    },
+    {
+      "source": "Consumer",
+      "target": "Market"
+    },
+    {
+      "source": "Consumption",
+      "target": "Deprivation"
+    },
+    {
+      "source": "Consumption",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "Deprivation",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "L1_Pilot_Notes",
+      "target": "Solution"
+    },
+    {
+      "source": "L1_Pilot_Notes",
+      "target": "Deprivation"
+    },
+    {
+      "source": "L1_Pilot_Notes",
+      "target": "S-O-R Model"
+    },
+    {
+      "source": "L1_Pilot_Notes",
+      "target": "In control"
+    },
+    {
+      "source": "L2_Philosophy_Notes",
+      "target": "Service-Dominant (S-D) Logic"
+    },
+    {
+      "source": "L2_Philosophy_Notes",
+      "target": "Instrumental Value"
+    },
+    {
+      "source": "L2_Philosophy_Notes",
+      "target": "Value Co-creation"
+    },
+    {
+      "source": "L2_Philosophy_Notes",
+      "target": "Value Delivery System"
+    },
+    {
+      "source": "L2_Philosophy_Notes",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "Consumption"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "Deprivation"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "S-O-R Model"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "Self-worth"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "In control"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "Dissonance Reduction"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "Market"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "Consumer"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Product"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Instrumental Value"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Hedonic Value"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Symbolic Value"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "AVP Framework"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Value Element"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Enabler"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Differentiator"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Augmenter"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "In control"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Self-worth"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Dissonance Reduction"
+    }
+  ],
+  "links": [
+    {
+      "source": "AVP Framework",
+      "target": "Enabler"
+    },
+    {
+      "source": "AVP Framework",
+      "target": "Differentiator"
+    },
+    {
+      "source": "AVP Framework",
+      "target": "Augmenter"
+    },
+    {
+      "source": "Consumer",
+      "target": "Market"
+    },
+    {
+      "source": "Consumption",
+      "target": "Deprivation"
+    },
+    {
+      "source": "Consumption",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "Deprivation",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "L1_Pilot_Notes",
+      "target": "Solution"
+    },
+    {
+      "source": "L1_Pilot_Notes",
+      "target": "Deprivation"
+    },
+    {
+      "source": "L1_Pilot_Notes",
+      "target": "S-O-R Model"
+    },
+    {
+      "source": "L1_Pilot_Notes",
+      "target": "In control"
+    },
+    {
+      "source": "L2_Philosophy_Notes",
+      "target": "Service-Dominant (S-D) Logic"
+    },
+    {
+      "source": "L2_Philosophy_Notes",
+      "target": "Instrumental Value"
+    },
+    {
+      "source": "L2_Philosophy_Notes",
+      "target": "Value Co-creation"
+    },
+    {
+      "source": "L2_Philosophy_Notes",
+      "target": "Value Delivery System"
+    },
+    {
+      "source": "L2_Philosophy_Notes",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "Consumption"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "Deprivation"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "S-O-R Model"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "Self-worth"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "In control"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "Dissonance Reduction"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "Market"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "Consumer"
+    },
+    {
+      "source": "L3_Market_and_Consumption_Notes",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Product"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Instrumental Value"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Hedonic Value"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Symbolic Value"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "AVP Framework"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Value Element"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Enabler"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Differentiator"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Augmenter"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "In control"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Self-worth"
+    },
+    {
+      "source": "L4_Solution_Composition_Notes",
+      "target": "Dissonance Reduction"
+    }
+  ]
+}
