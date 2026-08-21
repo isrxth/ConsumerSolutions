@@ -9,7 +9,7 @@ export function PillNavigation() {
   const { currentTab, setTab } = useAppStore();
 
   return (
-    <div className="absolute bottom-4 sm:bottom-6 left-1/2 -translate-x-1/2 z-30">
+    <div className="absolute top-3 left-3 sm:top-auto sm:bottom-6 sm:left-1/2 sm:-translate-x-1/2 z-30">
       <div id="pill-view-toggle" className="relative flex items-center p-1 bg-zinc-900/60 border border-zinc-800/80 backdrop-blur-md rounded-full shadow-lg gap-1">
         {/* Graph Tab */}
         <button

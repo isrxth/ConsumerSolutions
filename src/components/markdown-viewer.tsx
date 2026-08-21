@@ -111,7 +111,7 @@ export function MarkdownViewer({ onClose, showBackBtn = false }: MarkdownViewerP
     <>
     <article className="h-full flex flex-col bg-[#1e1e1e] overflow-hidden">
       {/* Note Header / Meta */}
-      <div className="flex items-center justify-between px-3 sm:px-6 pr-14 sm:pr-6 py-3 sm:py-4 border-b border-zinc-800/60 bg-[#1e1e1e]/90 sticky top-0 backdrop-blur-md z-10">
+      <div className="flex items-center justify-between px-3 sm:px-6 pr-14 sm:pr-6 pt-14 sm:pt-4 pb-3 sm:pb-4 border-b border-zinc-800/60 bg-[#1e1e1e]/90 sticky top-0 backdrop-blur-md z-10">
         <div className="flex items-center gap-3">
           {/* History Back/Forward Controls */}
           <div id="history-navigation-controls" className="flex items-center bg-zinc-900/40 border border-zinc-800/60 rounded-lg p-0.5 mr-1 shrink-0">
