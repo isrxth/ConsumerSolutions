@@ -175,7 +175,7 @@ export function QuizViewer() {
   const answeredCount = Object.keys(userAnswers).length;
 
   return (
-    <div className="h-full flex flex-col bg-[#1e1e1e] overflow-y-auto px-4 sm:px-8 py-6 text-zinc-100 relative">
+    <div className="h-full flex flex-col bg-[#1e1e1e] overflow-y-auto px-4 sm:px-8 py-6 pb-24 sm:pb-8 text-zinc-100 relative">
       {/* Toast Warning for Unanswered Questions */}
       <AnimatePresence>
         {warningToast && (
@@ -192,7 +192,7 @@ export function QuizViewer() {
       </AnimatePresence>
 
       {/* Quiz Top Header Bar */}
-      <div className="max-w-4xl w-full mx-auto mb-6">
+      <div className="max-w-4xl w-full mx-auto mb-6 pr-12 md:pr-0">
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 pb-4 border-b border-zinc-800/80">
           <div className="flex items-center gap-3">
             <div className="p-2.5 rounded-xl bg-emerald-500/10 border border-emerald-500/20 text-emerald-400">

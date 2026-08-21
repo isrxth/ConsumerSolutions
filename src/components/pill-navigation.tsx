@@ -14,7 +14,7 @@ export function PillNavigation() {
         {/* Graph Tab */}
         <button
           onClick={() => setTab('graph')}
-          className={`relative z-10 flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 text-xs font-semibold rounded-full transition-colors duration-200 select-none ${
+          className={`relative z-10 flex items-center gap-1 sm:gap-2 px-2.5 sm:px-4 py-1.5 sm:py-2 text-[11px] sm:text-xs font-semibold rounded-full transition-colors duration-200 select-none ${
             currentTab === 'graph' ? 'text-emerald-400' : 'text-zinc-500 hover:text-zinc-300'
           }`}
         >
@@ -32,7 +32,7 @@ export function PillNavigation() {
         {/* Note View Tab */}
         <button
           onClick={() => setTab('note')}
-          className={`relative z-10 flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 text-xs font-semibold rounded-full transition-colors duration-200 select-none ${
+          className={`relative z-10 flex items-center gap-1 sm:gap-2 px-2.5 sm:px-4 py-1.5 sm:py-2 text-[11px] sm:text-xs font-semibold rounded-full transition-colors duration-200 select-none ${
             currentTab === 'note' ? 'text-emerald-400' : 'text-zinc-500 hover:text-zinc-300'
           }`}
         >
@@ -50,7 +50,7 @@ export function PillNavigation() {
         {/* Quiz Tab */}
         <button
           onClick={() => setTab('quiz')}
-          className={`relative z-10 flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 text-xs font-semibold rounded-full transition-colors duration-200 select-none ${
+          className={`relative z-10 flex items-center gap-1 sm:gap-2 px-2.5 sm:px-4 py-1.5 sm:py-2 text-[11px] sm:text-xs font-semibold rounded-full transition-colors duration-200 select-none ${
             currentTab === 'quiz' ? 'text-emerald-400' : 'text-zinc-500 hover:text-zinc-300'
           }`}
         >
