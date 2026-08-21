@@ -53,6 +53,8 @@ export async function GET(request: Request) {
     
     if (normalizedGroupPath === 'Rules.md') {
       groupName = 'System';
+    } else if (normalizedGroupPath.startsWith('UpdatedNotes/')) {
+      groupName = 'UpdatedNotes';
     } else {
       const parts = normalizedGroupPath.split('/');
       if (parts.length > 2) {

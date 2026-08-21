@@ -24,7 +24,7 @@ export interface GraphData {
 }
 
 interface AppState {
-  currentTab: 'graph' | 'note';
+  currentTab: 'graph' | 'note' | 'quiz';
   activeNote: NoteDetail | null;
   isLoadingNote: boolean;
   isOverlayOpen: boolean;
@@ -38,7 +38,7 @@ interface AppState {
   canGoForward: boolean;
   
   // Actions
-  setTab: (tab: 'graph' | 'note') => void;
+  setTab: (tab: 'graph' | 'note' | 'quiz') => void;
   setActiveNote: (notePath: string | null, isFromHistoryNav?: boolean) => Promise<void>;
   closeOverlay: () => void;
   setGraphData: (data: GraphData) => void;

@@ -85,6 +85,18 @@
       "path": "Notes/definition/Market.md"
     },
     {
+      "id": "MSE Framework",
+      "title": "MSE Framework",
+      "group": "definition",
+      "path": "Notes/definition/MSE Framework.md"
+    },
+    {
+      "id": "PMCS Triangle",
+      "title": "PMCS Triangle",
+      "group": "definition",
+      "path": "Notes/definition/PMCS Triangle.md"
+    },
+    {
       "id": "Product",
       "title": "Product",
       "group": "definition",
@@ -151,28 +163,28 @@
       "path": "Notes/definition/Value Element.md"
     },
     {
-      "id": "L1_Pilot_Notes",
-      "title": "Lecture 1: The Pilot - Study Notes",
-      "group": "Notes",
-      "path": "Notes/L1_Pilot_Notes.md"
+      "id": "unit1-consumer-solutions",
+      "title": "Unit 1: Introduction to Consumer Solutions & Solution Designing (L1 Pilot)",
+      "group": "UpdatedNotes",
+      "path": "UpdatedNotes/unit1-consumer-solutions.md"
     },
     {
-      "id": "L2_Philosophy_Notes",
-      "title": "Lecture 2: Philosophy of Marketing and Consumption - Study Notes",
-      "group": "Notes",
-      "path": "Notes/L2_Philosophy_Notes.md"
+      "id": "unit2-philosophy-marketing",
+      "title": "Unit 2: Philosophy of Marketing & Value Co-Creation (L2)",
+      "group": "UpdatedNotes",
+      "path": "UpdatedNotes/unit2-philosophy-marketing.md"
     },
     {
-      "id": "L3_Market_and_Consumption_Notes",
-      "title": "Lecture 3: Market and Consumption - Study Notes",
-      "group": "Notes",
-      "path": "Notes/L3_Market_and_Consumption_Notes.md"
+      "id": "unit3-market-consumption",
+      "title": "Unit 3: Market Compositions & Consumption Psychology (L3)",
+      "group": "UpdatedNotes",
+      "path": "UpdatedNotes/unit3-market-consumption.md"
     },
     {
-      "id": "L4_Solution_Composition_Notes",
-      "title": "Lecture 4: Solution Composition - Study Notes",
-      "group": "Notes",
-      "path": "Notes/L4_Solution_Composition_Notes.md"
+      "id": "unit4-solution-composition",
+      "title": "Unit 4: Solution Composition, Value Profiling & AVP (L4)",
+      "group": "UpdatedNotes",
+      "path": "UpdatedNotes/unit4-solution-composition.md"
     }
   ],
   "edges": [
@@ -205,132 +217,324 @@
       "target": "Psychological Equilibrium"
     },
     {
-      "source": "L1_Pilot_Notes",
-      "target": "Solution"
-    },
-    {
-      "source": "L1_Pilot_Notes",
-      "target": "Deprivation"
-    },
-    {
-      "source": "L1_Pilot_Notes",
-      "target": "S-O-R Model"
-    },
-    {
-      "source": "L1_Pilot_Notes",
-      "target": "In control"
-    },
-    {
-      "source": "L2_Philosophy_Notes",
-      "target": "Service-Dominant (S-D) Logic"
-    },
-    {
-      "source": "L2_Philosophy_Notes",
-      "target": "Instrumental Value"
-    },
-    {
-      "source": "L2_Philosophy_Notes",
-      "target": "Value Co-creation"
-    },
-    {
-      "source": "L2_Philosophy_Notes",
-      "target": "Value Delivery System"
-    },
-    {
-      "source": "L2_Philosophy_Notes",
-      "target": "Sacrifice Value"
-    },
-    {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "Consumption"
-    },
-    {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "Deprivation"
-    },
-    {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "Psychological Equilibrium"
-    },
-    {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "S-O-R Model"
-    },
-    {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "Self-worth"
-    },
-    {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "In control"
-    },
-    {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "Dissonance Reduction"
-    },
-    {
-      "source": "L3_Market_and_Consumption_Notes",
+      "source": "MSE Framework",
       "target": "Market"
     },
     {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "Consumer"
+      "source": "MSE Framework",
+      "target": "Solution"
     },
     {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "Sacrifice Value"
-    },
-    {
-      "source": "L4_Solution_Composition_Notes",
-      "target": "Product"
-    },
-    {
-      "source": "L4_Solution_Composition_Notes",
-      "target": "Instrumental Value"
-    },
-    {
-      "source": "L4_Solution_Composition_Notes",
-      "target": "Hedonic Value"
-    },
-    {
-      "source": "L4_Solution_Composition_Notes",
-      "target": "Symbolic Value"
-    },
-    {
-      "source": "L4_Solution_Composition_Notes",
-      "target": "Sacrifice Value"
-    },
-    {
-      "source": "L4_Solution_Composition_Notes",
+      "source": "MSE Framework",
       "target": "AVP Framework"
     },
     {
-      "source": "L4_Solution_Composition_Notes",
+      "source": "MSE Framework",
       "target": "Value Element"
     },
     {
-      "source": "L4_Solution_Composition_Notes",
-      "target": "Enabler"
+      "source": "MSE Framework",
+      "target": "Consumption"
     },
     {
-      "source": "L4_Solution_Composition_Notes",
-      "target": "Differentiator"
+      "source": "PMCS Triangle",
+      "target": "Consumer"
     },
     {
-      "source": "L4_Solution_Composition_Notes",
-      "target": "Augmenter"
+      "source": "PMCS Triangle",
+      "target": "Product"
     },
     {
-      "source": "L4_Solution_Composition_Notes",
+      "source": "PMCS Triangle",
+      "target": "Solution"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Consumption"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Consumer"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Solution"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "PMCS Triangle"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Product"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Symbolic Value"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Value Delivery System"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Value Co-creation"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "S-O-R Model"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Deprivation"
+    },
+    {
+      "source": "unit1-consumer-solutions",
       "target": "In control"
     },
     {
-      "source": "L4_Solution_Composition_Notes",
+      "source": "unit1-consumer-solutions",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Instrumental Value"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "unit2-philosophy-marketing"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "unit3-market-consumption"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Service-Dominant (S-D) Logic"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Consumer"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Solution"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Deprivation"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Consumption"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Instrumental Value"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Product"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Goods-Dominant (G-D) Logic"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Value Co-creation"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Enabler"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Augmenter"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "AVP Framework"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Value Delivery System"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "unit3-market-consumption"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "unit4-solution-composition"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Consumption"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Consumer"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Deprivation"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "unit4-solution-composition"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Hedonic Value"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "S-O-R Model"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Product"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Attribute"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Market"
+    },
+    {
+      "source": "unit3-market-consumption",
       "target": "Self-worth"
     },
     {
-      "source": "L4_Solution_Composition_Notes",
+      "source": "unit3-market-consumption",
+      "target": "Symbolic Value"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "In control"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Instrumental Value"
+    },
+    {
+      "source": "unit3-market-consumption",
       "target": "Dissonance Reduction"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Value Co-creation"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Solution"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Product"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Attribute"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Value Element"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "S-O-R Model"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Consumer"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Deprivation"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "MSE Framework"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Market"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Solution"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Hedonic Value"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Self-worth"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "In control"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Dissonance Reduction"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Enabler"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "AVP Framework"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Augmenter"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Differentiator"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Instrumental Value"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Symbolic Value"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "unit1-consumer-solutions"
     }
   ],
   "links": [
@@ -363,132 +567,324 @@
       "target": "Psychological Equilibrium"
     },
     {
-      "source": "L1_Pilot_Notes",
-      "target": "Solution"
-    },
-    {
-      "source": "L1_Pilot_Notes",
-      "target": "Deprivation"
-    },
-    {
-      "source": "L1_Pilot_Notes",
-      "target": "S-O-R Model"
-    },
-    {
-      "source": "L1_Pilot_Notes",
-      "target": "In control"
-    },
-    {
-      "source": "L2_Philosophy_Notes",
-      "target": "Service-Dominant (S-D) Logic"
-    },
-    {
-      "source": "L2_Philosophy_Notes",
-      "target": "Instrumental Value"
-    },
-    {
-      "source": "L2_Philosophy_Notes",
-      "target": "Value Co-creation"
-    },
-    {
-      "source": "L2_Philosophy_Notes",
-      "target": "Value Delivery System"
-    },
-    {
-      "source": "L2_Philosophy_Notes",
-      "target": "Sacrifice Value"
-    },
-    {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "Consumption"
-    },
-    {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "Deprivation"
-    },
-    {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "Psychological Equilibrium"
-    },
-    {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "S-O-R Model"
-    },
-    {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "Self-worth"
-    },
-    {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "In control"
-    },
-    {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "Dissonance Reduction"
-    },
-    {
-      "source": "L3_Market_and_Consumption_Notes",
+      "source": "MSE Framework",
       "target": "Market"
     },
     {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "Consumer"
+      "source": "MSE Framework",
+      "target": "Solution"
     },
     {
-      "source": "L3_Market_and_Consumption_Notes",
-      "target": "Sacrifice Value"
-    },
-    {
-      "source": "L4_Solution_Composition_Notes",
-      "target": "Product"
-    },
-    {
-      "source": "L4_Solution_Composition_Notes",
-      "target": "Instrumental Value"
-    },
-    {
-      "source": "L4_Solution_Composition_Notes",
-      "target": "Hedonic Value"
-    },
-    {
-      "source": "L4_Solution_Composition_Notes",
-      "target": "Symbolic Value"
-    },
-    {
-      "source": "L4_Solution_Composition_Notes",
-      "target": "Sacrifice Value"
-    },
-    {
-      "source": "L4_Solution_Composition_Notes",
+      "source": "MSE Framework",
       "target": "AVP Framework"
     },
     {
-      "source": "L4_Solution_Composition_Notes",
+      "source": "MSE Framework",
       "target": "Value Element"
     },
     {
-      "source": "L4_Solution_Composition_Notes",
-      "target": "Enabler"
+      "source": "MSE Framework",
+      "target": "Consumption"
     },
     {
-      "source": "L4_Solution_Composition_Notes",
-      "target": "Differentiator"
+      "source": "PMCS Triangle",
+      "target": "Consumer"
     },
     {
-      "source": "L4_Solution_Composition_Notes",
-      "target": "Augmenter"
+      "source": "PMCS Triangle",
+      "target": "Product"
     },
     {
-      "source": "L4_Solution_Composition_Notes",
+      "source": "PMCS Triangle",
+      "target": "Solution"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Consumption"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Consumer"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Solution"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "PMCS Triangle"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Product"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Symbolic Value"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Value Delivery System"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Value Co-creation"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "S-O-R Model"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Deprivation"
+    },
+    {
+      "source": "unit1-consumer-solutions",
       "target": "In control"
     },
     {
-      "source": "L4_Solution_Composition_Notes",
+      "source": "unit1-consumer-solutions",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "Instrumental Value"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "unit2-philosophy-marketing"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "unit3-market-consumption"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Service-Dominant (S-D) Logic"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Consumer"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Solution"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Deprivation"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Consumption"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Instrumental Value"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Product"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Goods-Dominant (G-D) Logic"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Value Co-creation"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Enabler"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Augmenter"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "AVP Framework"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Value Delivery System"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "unit3-market-consumption"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "unit4-solution-composition"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Consumption"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Consumer"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Deprivation"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "unit4-solution-composition"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Hedonic Value"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "S-O-R Model"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Product"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Attribute"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Market"
+    },
+    {
+      "source": "unit3-market-consumption",
       "target": "Self-worth"
     },
     {
-      "source": "L4_Solution_Composition_Notes",
+      "source": "unit3-market-consumption",
+      "target": "Symbolic Value"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "In control"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Instrumental Value"
+    },
+    {
+      "source": "unit3-market-consumption",
       "target": "Dissonance Reduction"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Value Co-creation"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "Solution"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Product"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Attribute"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Value Element"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "S-O-R Model"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Consumer"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Deprivation"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "MSE Framework"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Market"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Solution"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Hedonic Value"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Self-worth"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "In control"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Dissonance Reduction"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Enabler"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "AVP Framework"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Augmenter"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Differentiator"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Instrumental Value"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Symbolic Value"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "unit1-consumer-solutions"
     }
   ]
 }

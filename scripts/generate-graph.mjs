@@ -4,6 +4,7 @@ import matter from 'gray-matter';
 
 const baseDir = path.resolve('.');
 const notesDir = path.join(baseDir, 'Notes');
+const updatedNotesDir = path.join(baseDir, 'UpdatedNotes');
 const publicDir = path.join(baseDir, 'public');
 
 // Recursively find all markdown files
@@ -30,8 +31,14 @@ function generateGraph() {
   const nodes = [];
   const nodeMap = new Map(); // name (lowercase) -> node info
   
-  // Find all notes in Notes/ recursively
-  let files = getMarkdownFiles(notesDir);
+  // Only include Notes/definition/** and UpdatedNotes/** — skip root-level old lecture notes
+  let files = [
+    ...getMarkdownFiles(path.join(notesDir, 'definition')),
+    ...getMarkdownFiles(updatedNotesDir),
+  ];
+
+  // Filter out any Rules.md
+  files = files.filter(f => !path.basename(f).toLowerCase().startsWith('rules'));
 
 
   // First pass: register all nodes
@@ -45,6 +52,8 @@ function generateGraph() {
     let group = 'General';
     if (relativePath === 'Rules.md') {
       group = 'System';
+    } else if (relativePath.startsWith('UpdatedNotes/')) {
+      group = 'UpdatedNotes';
     } else {
       const parts = relativePath.split('/');
       if (parts.length > 2) {

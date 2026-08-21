@@ -5,6 +5,7 @@ import { useAppStore } from './store';
 import Sidebar from '../components/sidebar';
 import KnowledgeGraph from '../components/knowledge-graph';
 import MarkdownViewer from '../components/markdown-viewer';
+import QuizViewer from '../components/quiz-viewer';
 import PillNavigation from '../components/pill-navigation';
 import Disclaimer from '../components/disclaimer';
 import TutorialTour from '../components/tutorial-tour';
@@ -69,10 +70,15 @@ export default function DigitalGardenPage() {
               )}
             </AnimatePresence>
           </div>
-        ) : (
+        ) : currentTab === 'note' ? (
           // Tab 2: Focused Note Viewer
           <div className="w-full h-full relative bg-[#1e1e1e]">
             <MarkdownViewer />
+          </div>
+        ) : (
+          // Tab 3: Knowledge Mastery Quiz
+          <div className="w-full h-full relative bg-[#1e1e1e]">
+            <QuizViewer />
           </div>
         )}
 

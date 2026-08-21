@@ -19,10 +19,11 @@ const ForceGraph2D = dynamic(() => import('react-force-graph-2d'), {
 
 // Subtle colors for groups
 const GROUP_COLORS: Record<string, string> = {
-  'definition': '#10b981', // Emerald - Definitions
-  'Notes': '#6366f1',      // Indigo - Study Notes
-  'System': '#f59e0b',     // Amber - System Rules
-  'default': '#3b82f6'     // Blue - Other
+  'definition': '#10b981',    // Emerald - Definitions
+  //'Notes': '#6366f1',         // Indigo - Old Lecture Notes
+  'UpdatedNotes': '#06b6d4',  // Cyan - Updated Unit Notes
+  'System': '#f59e0b',        // Amber - System Rules
+  'default': '#3b82f6'        // Blue - Other
 };
 
 export function KnowledgeGraph() {
@@ -219,7 +220,7 @@ export function KnowledgeGraph() {
           <span className="text-[11px] text-zinc-300 font-medium">Definitions</span>
         </div>
         <div className="flex items-center gap-2 select-none">
-          <div className="w-2.5 h-2.5 rounded-full bg-[#6366f1] shrink-0" />
+          <div className="w-2.5 h-2.5 rounded-full bg-[#06b6d4] shrink-0" />
           <span className="text-[11px] text-zinc-300 font-medium">Study Notes</span>
         </div>
         <div className="flex items-center gap-2 select-none">
