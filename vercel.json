@@ -1,0 +1,5 @@
+{
+  "installCommand": "pnpm config set store-dir /tmp/.pnpm-store && pnpm install --frozen-lockfile",
+  "buildCommand": "pnpm run build",
+  "framework": "nextjs"
+}
