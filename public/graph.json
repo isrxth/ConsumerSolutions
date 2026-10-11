@@ -19,6 +19,48 @@
       "path": "Notes/definition/AVP Framework.md"
     },
     {
+      "id": "Behavioral Segmentation",
+      "title": "Behavioral Segmentation",
+      "group": "definition",
+      "path": "Notes/definition/Behavioral Segmentation.md"
+    },
+    {
+      "id": "Brand Equity",
+      "title": "Brand Equity",
+      "group": "definition",
+      "path": "Notes/definition/Brand Equity.md"
+    },
+    {
+      "id": "Brand Mechanics",
+      "title": "Brand Mechanics",
+      "group": "definition",
+      "path": "Notes/definition/Brand Mechanics.md"
+    },
+    {
+      "id": "Brand Positioning Bullseye",
+      "title": "Brand Positioning Bullseye",
+      "group": "definition",
+      "path": "Notes/definition/Brand Positioning Bullseye.md"
+    },
+    {
+      "id": "Brand Resonance Model",
+      "title": "Brand Resonance Model",
+      "group": "definition",
+      "path": "Notes/definition/Brand Resonance Model.md"
+    },
+    {
+      "id": "Buying-Decision Behaviour",
+      "title": "Buying-Decision Behaviour",
+      "group": "definition",
+      "path": "Notes/definition/Buying-Decision Behaviour.md"
+    },
+    {
+      "id": "Consumer Buying Behaviour",
+      "title": "Consumer Buying Behaviour",
+      "group": "definition",
+      "path": "Notes/definition/Consumer Buying Behaviour.md"
+    },
+    {
       "id": "Consumer",
       "title": "Consumer",
       "group": "definition",
@@ -29,6 +71,12 @@
       "title": "Consumption",
       "group": "definition",
       "path": "Notes/definition/Consumption.md"
+    },
+    {
+      "id": "Demographic Segmentation",
+      "title": "Demographic Segmentation",
+      "group": "definition",
+      "path": "Notes/definition/Demographic Segmentation.md"
     },
     {
       "id": "Deprivation",
@@ -43,16 +91,40 @@
       "path": "Notes/definition/Differentiator.md"
     },
     {
+      "id": "Diffusion Curve",
+      "title": "Diffusion Curve",
+      "group": "definition",
+      "path": "Notes/definition/Diffusion Curve.md"
+    },
+    {
+      "id": "Disequilibration",
+      "title": "Disequilibration",
+      "group": "definition",
+      "path": "Notes/definition/Disequilibration.md"
+    },
+    {
       "id": "Dissonance Reduction",
       "title": "Dissonance Reduction",
       "group": "definition",
       "path": "Notes/definition/Dissonance Reduction.md"
     },
     {
+      "id": "Effective Segmentation Matrix",
+      "title": "Effective Segmentation Matrix",
+      "group": "definition",
+      "path": "Notes/definition/Effective Segmentation Matrix.md"
+    },
+    {
       "id": "Enabler",
       "title": "Enabler",
       "group": "definition",
       "path": "Notes/definition/Enabler.md"
+    },
+    {
+      "id": "Geographic Segmentation",
+      "title": "Geographic Segmentation",
+      "group": "definition",
+      "path": "Notes/definition/Geographic Segmentation.md"
     },
     {
       "id": "Goods-Dominant (G-D) Logic",
@@ -67,16 +139,34 @@
       "path": "Notes/definition/Hedonic Value.md"
     },
     {
+      "id": "Imprinting Access Handlers",
+      "title": "Imprinting Access Handlers",
+      "group": "definition",
+      "path": "Notes/definition/Imprinting Access Handlers.md"
+    },
+    {
       "id": "In control",
       "title": "In control",
       "group": "definition",
       "path": "Notes/definition/In control.md"
     },
     {
+      "id": "Ingredient Branding",
+      "title": "Ingredient Branding",
+      "group": "definition",
+      "path": "Notes/definition/Ingredient Branding.md"
+    },
+    {
       "id": "Instrumental Value",
       "title": "Instrumental Value",
       "group": "definition",
       "path": "Notes/definition/Instrumental Value.md"
+    },
+    {
+      "id": "Kano Model",
+      "title": "Kano Model",
+      "group": "definition",
+      "path": "Notes/definition/Kano Model.md"
     },
     {
       "id": "Market",
@@ -97,10 +187,34 @@
       "path": "Notes/definition/PMCS Triangle.md"
     },
     {
+      "id": "Private Labeling",
+      "title": "Private Labeling",
+      "group": "definition",
+      "path": "Notes/definition/Private Labeling.md"
+    },
+    {
+      "id": "Product Adoption Process",
+      "title": "Product Adoption Process",
+      "group": "definition",
+      "path": "Notes/definition/Product Adoption Process.md"
+    },
+    {
+      "id": "Product Diffusion",
+      "title": "Product Diffusion",
+      "group": "definition",
+      "path": "Notes/definition/Product Diffusion.md"
+    },
+    {
       "id": "Product",
       "title": "Product",
       "group": "definition",
       "path": "Notes/definition/Product.md"
+    },
+    {
+      "id": "Psychographic Segmentation",
+      "title": "Psychographic Segmentation",
+      "group": "definition",
+      "path": "Notes/definition/Psychographic Segmentation.md"
     },
     {
       "id": "Psychological Equilibrium",
@@ -131,6 +245,12 @@
       "title": "Service-Dominant (S-D) Logic",
       "group": "definition",
       "path": "Notes/definition/Service-Dominant (S-D) Logic.md"
+    },
+    {
+      "id": "Solution Segmentation",
+      "title": "Solution Segmentation",
+      "group": "definition",
+      "path": "Notes/definition/Solution Segmentation.md"
     },
     {
       "id": "Solution",
@@ -185,6 +305,24 @@
       "title": "Unit 4: Solution Composition, Value Profiling & AVP (L4)",
       "group": "UpdatedNotes",
       "path": "UpdatedNotes/unit4-solution-composition.md"
+    },
+    {
+      "id": "unit5-solution-segmentation",
+      "title": "Unit 5: Solution Segmentation & Market Classification (L5)",
+      "group": "UpdatedNotes",
+      "path": "UpdatedNotes/unit5-solution-segmentation.md"
+    },
+    {
+      "id": "unit6-consumer-buying-behaviour",
+      "title": "Unit 6: Consumer Buying Behaviour & Decision Mechanics (L6)",
+      "group": "UpdatedNotes",
+      "path": "UpdatedNotes/unit6-consumer-buying-behaviour.md"
+    },
+    {
+      "id": "unit7-imprinting-access-handlers",
+      "title": "Unit 7: Imprinting Access Handlers (Branding) (L7)",
+      "group": "UpdatedNotes",
+      "path": "UpdatedNotes/unit7-imprinting-access-handlers.md"
     }
   ],
   "edges": [
@@ -201,6 +339,14 @@
       "target": "Augmenter"
     },
     {
+      "source": "Brand Positioning Bullseye",
+      "target": "Enabler"
+    },
+    {
+      "source": "Brand Positioning Bullseye",
+      "target": "Differentiator"
+    },
+    {
       "source": "Consumer",
       "target": "Market"
     },
@@ -215,6 +361,38 @@
     {
       "source": "Deprivation",
       "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "Disequilibration",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "Disequilibration",
+      "target": "Deprivation"
+    },
+    {
+      "source": "Geographic Segmentation",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "Ingredient Branding",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "Kano Model",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "Kano Model",
+      "target": "Enabler"
+    },
+    {
+      "source": "Kano Model",
+      "target": "Differentiator"
+    },
+    {
+      "source": "Kano Model",
+      "target": "Augmenter"
     },
     {
       "source": "MSE Framework",
@@ -247,6 +425,14 @@
     {
       "source": "PMCS Triangle",
       "target": "Solution"
+    },
+    {
+      "source": "Product Diffusion",
+      "target": "Disequilibration"
+    },
+    {
+      "source": "Psychographic Segmentation",
+      "target": "Self-worth"
     },
     {
       "source": "unit1-consumer-solutions",
@@ -307,6 +493,22 @@
     {
       "source": "unit1-consumer-solutions",
       "target": "unit3-market-consumption"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "unit4-solution-composition"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "unit5-solution-segmentation"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "unit6-consumer-buying-behaviour"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "unit7-imprinting-access-handlers"
     },
     {
       "source": "unit2-philosophy-marketing",
@@ -375,6 +577,18 @@
     {
       "source": "unit2-philosophy-marketing",
       "target": "unit4-solution-composition"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "unit5-solution-segmentation"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "unit6-consumer-buying-behaviour"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "unit7-imprinting-access-handlers"
     },
     {
       "source": "unit3-market-consumption",
@@ -447,6 +661,18 @@
     {
       "source": "unit3-market-consumption",
       "target": "Solution"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "unit5-solution-segmentation"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "unit6-consumer-buying-behaviour"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "unit7-imprinting-access-handlers"
     },
     {
       "source": "unit4-solution-composition",
@@ -534,7 +760,215 @@
     },
     {
       "source": "unit4-solution-composition",
-      "target": "unit1-consumer-solutions"
+      "target": "unit5-solution-segmentation"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "unit6-consumer-buying-behaviour"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "unit7-imprinting-access-handlers"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Market"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Consumer"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Solution Segmentation"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "AVP Framework"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Attribute"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Consumption"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Geographic Segmentation"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Demographic Segmentation"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Psychographic Segmentation"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Self-worth"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Symbolic Value"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Instrumental Value"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Behavioral Segmentation"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Product"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Deprivation"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "In control"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Enabler"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Augmenter"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "unit6-consumer-buying-behaviour"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Consumer Buying Behaviour"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "S-O-R Model"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Kano Model"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Enabler"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "AVP Framework"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Differentiator"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Augmenter"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Self-worth"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Disequilibration"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Deprivation"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Product Adoption Process"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Diffusion Curve"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "unit7-imprinting-access-handlers"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Brand Equity"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Imprinting Access Handlers"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Consumption"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Deprivation"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Brand Mechanics"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Brand Resonance Model"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Brand Positioning Bullseye"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Enabler"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Differentiator"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Ingredient Branding"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Private Labeling"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "In control"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Self-worth"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "unit5-solution-segmentation"
     }
   ],
   "links": [
@@ -551,6 +985,14 @@
       "target": "Augmenter"
     },
     {
+      "source": "Brand Positioning Bullseye",
+      "target": "Enabler"
+    },
+    {
+      "source": "Brand Positioning Bullseye",
+      "target": "Differentiator"
+    },
+    {
       "source": "Consumer",
       "target": "Market"
     },
@@ -565,6 +1007,38 @@
     {
       "source": "Deprivation",
       "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "Disequilibration",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "Disequilibration",
+      "target": "Deprivation"
+    },
+    {
+      "source": "Geographic Segmentation",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "Ingredient Branding",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "Kano Model",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "Kano Model",
+      "target": "Enabler"
+    },
+    {
+      "source": "Kano Model",
+      "target": "Differentiator"
+    },
+    {
+      "source": "Kano Model",
+      "target": "Augmenter"
     },
     {
       "source": "MSE Framework",
@@ -597,6 +1071,14 @@
     {
       "source": "PMCS Triangle",
       "target": "Solution"
+    },
+    {
+      "source": "Product Diffusion",
+      "target": "Disequilibration"
+    },
+    {
+      "source": "Psychographic Segmentation",
+      "target": "Self-worth"
     },
     {
       "source": "unit1-consumer-solutions",
@@ -657,6 +1139,22 @@
     {
       "source": "unit1-consumer-solutions",
       "target": "unit3-market-consumption"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "unit4-solution-composition"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "unit5-solution-segmentation"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "unit6-consumer-buying-behaviour"
+    },
+    {
+      "source": "unit1-consumer-solutions",
+      "target": "unit7-imprinting-access-handlers"
     },
     {
       "source": "unit2-philosophy-marketing",
@@ -725,6 +1223,18 @@
     {
       "source": "unit2-philosophy-marketing",
       "target": "unit4-solution-composition"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "unit5-solution-segmentation"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "unit6-consumer-buying-behaviour"
+    },
+    {
+      "source": "unit2-philosophy-marketing",
+      "target": "unit7-imprinting-access-handlers"
     },
     {
       "source": "unit3-market-consumption",
@@ -797,6 +1307,18 @@
     {
       "source": "unit3-market-consumption",
       "target": "Solution"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "unit5-solution-segmentation"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "unit6-consumer-buying-behaviour"
+    },
+    {
+      "source": "unit3-market-consumption",
+      "target": "unit7-imprinting-access-handlers"
     },
     {
       "source": "unit4-solution-composition",
@@ -884,7 +1406,215 @@
     },
     {
       "source": "unit4-solution-composition",
-      "target": "unit1-consumer-solutions"
+      "target": "unit5-solution-segmentation"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "unit6-consumer-buying-behaviour"
+    },
+    {
+      "source": "unit4-solution-composition",
+      "target": "unit7-imprinting-access-handlers"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Market"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Consumer"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Solution Segmentation"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "AVP Framework"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Attribute"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Consumption"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Geographic Segmentation"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Demographic Segmentation"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Psychographic Segmentation"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Self-worth"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Symbolic Value"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Instrumental Value"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Behavioral Segmentation"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Product"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Deprivation"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "In control"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Enabler"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "Augmenter"
+    },
+    {
+      "source": "unit5-solution-segmentation",
+      "target": "unit6-consumer-buying-behaviour"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Consumer Buying Behaviour"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "S-O-R Model"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Kano Model"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Psychological Equilibrium"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Enabler"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "AVP Framework"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Differentiator"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Augmenter"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Self-worth"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Disequilibration"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Deprivation"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Product Adoption Process"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "Diffusion Curve"
+    },
+    {
+      "source": "unit6-consumer-buying-behaviour",
+      "target": "unit7-imprinting-access-handlers"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Brand Equity"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Imprinting Access Handlers"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Consumption"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Deprivation"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Brand Mechanics"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Brand Resonance Model"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Brand Positioning Bullseye"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Enabler"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Differentiator"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Ingredient Branding"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Sacrifice Value"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Private Labeling"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "In control"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "Self-worth"
+    },
+    {
+      "source": "unit7-imprinting-access-handlers",
+      "target": "unit5-solution-segmentation"
     }
   ]
 }
