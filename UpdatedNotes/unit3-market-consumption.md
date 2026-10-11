@@ -63,4 +63,4 @@ In neuroscience, the brain's ultimate survival mandate is **allostasis/homeostas
     *   **Response (R)**: Swiping the screen to match candies, causing small bursts of dopamine.
     *   **Result (Satisfaction)**: Psychic tension is reduced; the player feels a sense of achievement and control (realizing all three Tri-Core anchors: [[Self-worth]], [[In control]], [[Dissonance Reduction]]) [16, 17, 53, 54].
 
-> **See also:** [[unit1-consumer-solutions|Unit 1 — Introduction]], [[unit2-philosophy-marketing|Unit 2 — Philosophy & Co-Creation]], [[unit4-solution-composition|Unit 4 — Solution Composition & AVP]]
+> **See also:** [[unit1-consumer-solutions|Unit 1 — Introduction]], [[unit2-philosophy-marketing|Unit 2 — Philosophy & Co-Creation]], [[unit4-solution-composition|Unit 4 — Solution Composition & AVP]], [[unit5-solution-segmentation|Unit 5 — Solution Segmentation]], [[unit6-consumer-buying-behaviour|Unit 6 — Consumer Buying Behaviour]], [[unit7-imprinting-access-handlers|Unit 7 — Imprinting Access Handlers]]

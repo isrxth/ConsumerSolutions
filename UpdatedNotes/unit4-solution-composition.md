@@ -70,4 +70,4 @@ In neuromarketing, seeing a high price or experiencing a high-friction user inte
     *   *Physical [[Attribute]]* : Solid 18k gold casing → Generates a high-quality visual reflex in the eye → Decoded by the brain as luxury/prestige ([[Symbolic Value|Social Value]]) [26, 36, 63, 73].
     *   *Aesthetic [[Attribute]]*: Sweeping second hand movement → Signifies mechanical complexity → Decoded as craft excellence ([[Hedonic Value|Hedonic]]/[[Symbolic Value]]) [26, 36, 63, 73].
 
-> **See also:** [[unit1-consumer-solutions|Unit 1 — Introduction]], [[unit2-philosophy-marketing|Unit 2 — Philosophy & Co-Creation]], [[unit3-market-consumption|Unit 3 — Market & Consumption Psychology]]
+> **See also:** [[unit1-consumer-solutions|Unit 1 — Introduction]], [[unit2-philosophy-marketing|Unit 2 — Philosophy & Co-Creation]], [[unit3-market-consumption|Unit 3 — Market & Consumption Psychology]], [[unit5-solution-segmentation|Unit 5 — Solution Segmentation]], [[unit6-consumer-buying-behaviour|Unit 6 — Consumer Buying Behaviour]], [[unit7-imprinting-access-handlers|Unit 7 — Imprinting Access Handlers]]
